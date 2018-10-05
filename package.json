@@ -1,0 +1,34 @@
+{
+  "name": "config-parser",
+  "version": "0.1.0",
+  "description": "Parses configs from the environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amhester/node-config-parser.git"
+  },
+  "keywords": [
+    "node",
+    "config",
+    "configuration",
+    "javascript"
+  ],
+  "author": "amhester@anderson.edu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amhester/node-config-parser/issues"
+  },
+  "homepage": "https://github.com/amhester/node-config-parser#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "babel-eslint": "^8.2.6",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^11.1.0",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.2.1",
+    "eslint-plugin-react": "^7.7.0"
+  }
+}
